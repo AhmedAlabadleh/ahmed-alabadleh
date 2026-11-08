@@ -19,3 +19,5 @@
 ## Connect
 [LinkedIn](linkedin.com/in/ahmed-al-abadleh-1a05a6a0)
 [Email](mailto:ahmedcsa@bu.edu)
+
+[Download my resume](https://github.com/ahmed-alabadleh/resume/blob/main/Ahmed%20Alabadleh_CV_V3.pdf)
