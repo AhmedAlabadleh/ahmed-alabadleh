@@ -15,6 +15,7 @@
 [complete my MS in CSAI at BU]
 [Improve my CS skills and related tools]
 [Improve Programming skills]
+[Improve AI skills and tools]
 
 ## Connect
 [LinkedIn](linkedin.com/in/ahmed-al-abadleh-1a05a6a0)
